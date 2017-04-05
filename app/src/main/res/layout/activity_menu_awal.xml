@@ -8,11 +8,16 @@
     tools:context="id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.MenuAwal">
 
     <Button
-        android:id="@+id/buttonStart"
+        android:id="@+id/buttonNas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PLAY" />
+        android:text="PLAY LAGU NASIONAL" />
 
+    <Button
+        android:id="@+id/buttonDae"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PLAY LAGU DAERAH" />
     <Button
         android:id="@+id/buttonExit"
         android:layout_width="match_parent"

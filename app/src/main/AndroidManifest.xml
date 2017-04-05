@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Pertiwiku"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MenuAwal">
@@ -16,13 +16,22 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ListLagu"
-            android:label="@string/title_activity_list_lagu"
+            android:name=".ListLaguDaerah"
+            android:label="Lagu Daerah"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".DetailLagu"
-            android:label="@string/title_activity_detail_lagu"
+            android:name=".LaguPlayerDaerah"
+            android:label="@string/title_activity_lagu_player"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListLaguNasional"
+            android:label="Lagu Nasional"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LaguPlayerNasional"
+            android:label="Lagu player"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+
     </application>
 
 </manifest>

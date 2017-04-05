@@ -14,30 +14,110 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string-array name="music">
-        <item>Indonesia Raya</item>
+    <string-array name="music_nas">
+        <item>Bendera KIta</item>
+        <item>Bungaku</item>
+        <item>Dari Sabang Sampai Merauke</item>
+        <item>Garuda Pancasila</item>
+        <item>Halo-Halo Bandung</item>
+        <item>Hymne Guru</item>
+        <item>Hymne Pramuka</item>
+        <item>Hymne Kemerdekaan</item>
+        <item>Syukur</item>
+        <item>Mengheningkan Cipta</item>
+        <item>Tanah Airku</item>
+        <item>Indonesia Pusaka</item>
         <item>Rayuan Pulau Kelapa</item>
+        <item>Satu Nusa Satu Bangsa</item>
+        <item>Tanah Air Beta</item>
     </string-array>
-    <string-array name="desc_music">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+    <string-array name="desc_music_nas">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
     </string-array>
-    <string-array name="place_details">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
+    <string-array name="pencipta">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+    </string-array>
+    <string-array name="places_music">
+        <item> @raw/bendera_kita </item>
+        <item> @raw/bungaku </item>
+    </string-array>
+    <string-array name="music_daerah">
+        <item>Ampar Ampar Pisang</item>
+        <item>Anak Kambing Saya</item>
+        <item>Apuse</item>
+        <item>Ayam Den Lapeh</item>
+        <item>Ayo Mama</item>
+        <item>Buka Pintu</item>
+        <item>Burung Kakak Tua</item>
+        <item>Cublak Cublak Suweng</item>
+        <item>Perahu Layar</item>
+        <item>Yamko Rambe Yamko</item>
+        <item>Gambang Suling</item>
+        <item>Lir Ilir</item>
+        <item>Manuk Dadali</item>
+        <item>O Inani Keke</item>
+        <item>Bubuy Bulan</item>
+    </string-array>
+    <string-array name="desc_music_daerah">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="asal">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
     </string-array>
 </resources>

@@ -6,15 +6,22 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.view.Window;
 
 public class MenuAwal extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_menu_awal);
+
+        findViewById(R.id.buttonNas).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent intent = new Intent(MenuAwal.this, ListLaguNasional.class);
+                startActivity(intent);
+            }
+        });
 
         findViewById(R.id.buttonExit).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -23,12 +30,17 @@ public class MenuAwal extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.buttonStart).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.buttonDae).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MenuAwal.this, ListLagu.class));
+                goDaerah();
             }
         });
+
+    }
+
+    private void goDaerah() {
+        startActivity(new Intent(MenuAwal.this, ListLaguDaerah.class));
     }
 
     @Override
@@ -52,4 +64,6 @@ public class MenuAwal extends AppCompatActivity {
         AlertDialog alertDialog = builder.create();
         alertDialog.show();
     }
+
+
 }
