@@ -27,11 +27,7 @@
             android:name=".ListLaguNasional"
             android:label="Lagu Nasional"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".LaguPlayerNasional"
-            android:label="Lagu player"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-
+        <activity android:name=".LaguPlayerNasional"></activity>
     </application>
 
 </manifest>

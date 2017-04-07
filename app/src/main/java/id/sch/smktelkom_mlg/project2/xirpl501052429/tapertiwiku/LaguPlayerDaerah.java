@@ -5,13 +5,14 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
-import android.widget.TextView;
 
 import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguDaerah;
 
-public class LaguPlayerDaerah extends AppCompatActivity {
+import static id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.ListLaguDaerah.stop;
 
-    MediaPlayer mediaPlayer;
+public class LaguPlayerDaerah extends AppCompatActivity {
+    private static final String TAG = "LivecycleTag";
+    public static MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,20 +22,16 @@ public class LaguPlayerDaerah extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
-        LaguDaerah laguDaerah = (LaguDaerah) getIntent().getSerializableExtra(ListLaguDaerah.LAGU_DAE);
-        setTitle(laguDaerah.judul);
-        TextView tvDeskripsi = (TextView) findViewById(R.id.music_detail);
-        tvDeskripsi.setText(laguDaerah.deskripsi);
+        LaguDaerah daerah = (LaguDaerah) getIntent().getSerializableExtra(ListLaguDaerah.LAGU_DAE);
+
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 onBackPressed();
-                mediaPlayer.stop();
+                stop();
             }
         });
-
     }
-
 }
