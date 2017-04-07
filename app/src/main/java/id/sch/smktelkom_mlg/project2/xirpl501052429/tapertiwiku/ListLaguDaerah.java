@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.adapter.LaguAdapterDaerah;
 import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguDaerah;
 
+
 public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaerah.ILaguAdapterDaerah {
 
     public static final String LAGU_DAE = "lagu dae";

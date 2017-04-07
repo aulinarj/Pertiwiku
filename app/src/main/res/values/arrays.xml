@@ -65,10 +65,7 @@
         <item>n</item>
         <item>o</item>
     </string-array>
-    <string-array name="places_music">
-        <item> @raw/bendera_kita </item>
-        <item> @raw/bungaku </item>
-    </string-array>
+
     <string-array name="music_daerah">
         <item>Ampar Ampar Pisang</item>
         <item>Anak Kambing Saya</item>
@@ -87,37 +84,40 @@
         <item>Bubuy Bulan</item>
     </string-array>
     <string-array name="desc_music_daerah">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
+        <item> Sejarah Tentang lagu ampar ampar pisang ini pada awalnya dinyanyikan secara iseng saat masyarakat Kalimantan Selatan membuat sebuah kue/makanan yang terbuat dari pisang. Makanan ini bernama rimpi. Cara membuat makanan ini adalah dengan cara pisang di diampar (disusun) kemudian dibiarkan hingga hampir matang mendekati busuk. setelah itu pisang dijemur diampar(disusun) di bawah sinar matahari sampai kira kira pisang mengeras dan mengeluarkan bau manis yang sangat khas.
+               Isi dari lagu ampar-ampar pisang menceritakan tentang pisang yang diampar dan dikerubuti binatang kecil kecil bisa terbang yang senang dgn aroma pisang. Binatang ini dikenal masyarakat Kalimantan dengan nama bari bari. Pada akhir lagu di ceritakan tentang binatang yang ditakuti anak kecil zaman dulu (lihat kata “dikitip bidawang”) yang artinya digigit biawak. Konon, kata dikitip bidawang itu digunakan untuk menakuti anak anak yang suka mencuri pisang/kue rimpi yang masih dalam proses penjemuran.</item>
+        <item> Lagu Anak Kambing Saya ini sangat populer di kalangan bangsa indonesia bukan hanya di Nusa Tenggara Timur saja. Banyak orang yang suka membawakan lagu ini, bisa untuk diaransemen, atau dibawakan secara asli utuh.Lagu Anak Kambing Saya ini sebenarnya diartikan sebagi lagu yang girang. Lagu ini bermakna dimana orang tua mencari anak kesayanganya. Menggambarkan tentang kebersamaan dan persahaban seorang anak. Sebenarnya lagu ini juga sering di putar di tempat tempat-tempat hibuaran dan permainan.</item>
+        <item> Lagu Apuse ini mengisahkan tentang kakek-nenek dan cucu-nya. “Kakek-nenek aku mau pergi ke negri sebrang, teluk Doreri”. Pada kalimat itu jelas tergambar makna bahwa sang cucu ingin merantau ke negri sebrang/pulau sebrang. Lalu, apa yang dimaksud dengan “teluk Doreri”? Teluk Doreri itu dikenal sebagai pintu masuk menuju Manokwari melalui jalur laut. Dalam sejarahnya, teluk ini berperan penting dalam penyebaran agama Kristen di tanah Papua. Untuk saat ini Teluk Doreri menjadi pelabuhan baik untuk kapal Domestik Nasional, maupun antar pulau di Papua.
+               Kemudian kita menuju kalimat selanjutnya. “Pegang saputangan dan melambaikan tangan”. Pegang saputangan, melambangkan kesedihan si cucu yang pergi merantau demi mencari kehidupan yang lebih baik. “Kasihan aku, selamat jalan cucuku”. Sepertinya kalimat ini bermakna lugas ya, ga ada kiasannya.</item>
+        <item> Ayam den lapeh adalah sejenis lagu rakyat kedaerahan dari Sumatera Barat, Indonesia. Lagu ini dipercayai asalnya merupakan lagu asli orang Minangkabau daripada Padang, Sumatera, Indonesia. Penyanyi asal lagu ini ialah Ally Kasim yang berasal dari Pagar Ruyong, Indonesia.</item>
+        <item> Lagu yang berjudul Ayo Mama berasal dari Maluku. Lagu ini berpolakan pantun. Lagu ayo mama adalah sebuah lagu pantun yang biasa digunakan untuk berbalas pantun anak-anak Maluku. Arti lagu Ayo Mama sebenarnya tidak ada, karena itu cuman pantun saja. Lagu Ayo Mama diciptakan oleh Huang-Huilan.</item>
+        <item> Lagu daerah Maluku berjudul Buka Pintu merupakan salah satu lagu Maluku terkenal. Lagu ini biasa dinyanyikan sebagai lagu anak-anak, sehingga tak heran anak-anak dari daerah lain juga mengenal lagu ini.Dengan nada riang, lagu ini sangat asyik didengarkan. Liriknya cukup simpel dan mudah diingat. Meski sangat kental bahasa daerah, lirik lagu Buka Pintu mudah dipahami karena ada campuran bahasa Indonesia</item>
+        <item> Kita semua tentu sangat familiar dengan lagu anak ‘Burung Kakaktua’ yang liriknya berbunyi Burung Kakatua/ Hinggap di jendela/ Nenek sudah tua/ Giginya tinggal dua. Namun dengan melodi yang persis sama, pada waktu kecil kita juga belajar menyanyikan lagu ‘Topi Saya Bulat’ yang liriknya berbunyi ‘Topi saya bulat/ Bulat topi saya/ Kalau tidak bulat/ Bukan topi saya. Lagu ini ternyata berasal dari Portugis yang saya tengarai diperkenalkan pelaut-pelaut Portugis pada saat menjajah tanah air kita di zaman baheula.</item>
+        <item> Suweng adalah anting perhiasan wanita Jawa. Jadi, Cublak-cublak suweng, artinya ada tempat harta berharga, yaitu Suweng (Suwung, Sepi, Sejati) atau Harta Sejati.Harta Sejati itu berupa kebahagiaan sejati sebenarnya sudah ada berserakan di sekitar manusia.Mambu (baunya) Ketundhung (dituju) Gudel (anak Kerbau).
+               Maknanya, banyak orang berusaha mencari harta sejati itu. Bahkan orang-orang bodoh (diibaratkan Gudel) mencari harta itu dengan penuh nafsu ego, korupsi dan keserakahan, tujuannya untuk menemukan kebahagiaan sejati.Meskipun hartanya melimpah, ternyata itu harta palsu, bukan Harta Sejati atau kebahagiaan sejati. Mereka kebingungan karena dikuasai oleh hawa nafsu keserakahannya sendiri.</item>
+        <item> Menggambarkan suasana liburan ke tempat sesuatu yang indah,ini menggambarkan keindahan pesisir di indonesia yang sangat indah dan patut untuk kita kunjugi lagi ini juga mengisayaratkan kepada kita supaya tetap untuk jangan lupa diri atau keenakan terhadap suasanya. Kita harus pintar mengatur waktu kemana kita harus melangkah. Di bait akhir mengatakan bahwa kita harus pulang kan besok kita harus bekerja. Ini tanda pesan yang sangat bagus di dalam arti penyampaian lagu tersebut supaya kita tetap disiplin terhadap suatu waktu</item>
+        <item> Lagu tersebut adalah lagu tentang peperangan. Di lagu itu para pejuang Indonesia ingin menjadi bunga bangsa. Bunga bangsa itu adalah pahlawan. Yang rela berkorban untuk mempertahankan negara Indonesia ini dari para penjajah.</item>
+        <item> Gambang suling merupakan sebuah lagu yang berasal dari daerah Jawa Tengah. Lagu dari jateng ini diciptakan oleh Ki Narto Sabdo. Sang Pencipta hanya membuat lagu ini menjadi lima baris saja. Begitu sederhana bukan? Lagu gambang suling mp3 ini sangat terkenal, bahkan hingga ke daerah luar Jawa Tengah. Selain sederhana, lagu ini juga dikenal sebagai lagu anak-anak. Maka tak heran kalau anak SD banyak yang hafal lagu ini.</item>
+        <item> Sebagai umat Islam kita diminta bangun ( sadar ).Bangun dari keterpurukan, bangun dari sifat malas untuk lebih mempertebal keimanan yang telah ditanamkan oleh Alloh. Dalam diri kita yang dalam ini dilambangkan dengan tanaman yang mulai bersemi dan demikian menghijau. Terserah kepada kita, mau tetap tidur dan membiarkan tanaman iman kita mati atau bangun dan berjuang untuk menumbuhkan tanaman tersebut hingga besar dan mendapatkan kebahagiaan seperti bahagianya pengantin baru.</item>
+        <item> Manuk Dadali merupakan salah satu lagu Sunda asal daerah Jawa Barat. Dengan berbahasa sunda yang diciptakan oleh pembawa acara radio dan televisi serta penulis lagu berbahasa sunda, Sambas Mangundikarta. Manuk Dadali yang berarti burung garuda merupakan lagu penuh rasa nasionalisme menceritakan keperkasaan burung garuda yang merupakan lambang dari Indonesia.</item>
+        <item> Lirik yang menyebutkan sebagai rasa kasih sayang dari ibu kepada anak yang disayanginya. Namun ternyata anak justru melihat rasa kasih sayang tersebut sebagai ungkapan rasa kemanjaan sehingga tidak adanya timbal balik rasa sayang yang terjalin dari hubungan ibu dan anak tersebut.</item>
+        <item> Bubuy Bulan yakni lagu dari daerah propinsi Jawa Barat yg diciptakan oleh Benny Korda. Lagu ini bercerita berkenaan kesedihan seorang yg ditinggalkan oleh kekasih. Kesedihan itu bertambah tidak baik disaat seorang itu menyaksikan satu orang yg melewat tiap-tiap pagi dan menonton sorot matanya terkenang oleh kekasih yg lalu meninggalkannya.</item>
     </string-array>
     <string-array name="asal">
-        <item>a</item>
-        <item>b</item>
-        <item>c</item>
-        <item>d</item>
-        <item>e</item>
-        <item>f</item>
-        <item>g</item>
-        <item>h</item>
-        <item>i</item>
-        <item>j</item>
-        <item>k</item>
-        <item>l</item>
-        <item>m</item>
-        <item>n</item>
-        <item>o</item>
+        <item>Kalimantan Selatan</item>
+        <item>NTT</item>
+        <item>Papua</item>
+        <item>Sumatera Barat</item>
+        <item>Maluku</item>
+        <item>Maluku</item>
+        <item>Maluku</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa</item>
+        <item>Papua</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa</item>
+        <item>Sunda</item>
+        <item>Sulawesi Utara</item>
+        <item>JAwa Barat</item>
     </string-array>
 </resources>

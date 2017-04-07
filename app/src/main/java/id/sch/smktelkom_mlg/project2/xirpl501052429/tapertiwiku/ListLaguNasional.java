@@ -20,7 +20,6 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
 
     ArrayList<LaguNasional> mListNas = new ArrayList<>();
     LaguAdapterNasional mAdapterNas;
-
     MediaPlayer mediaPlayer;
 
     @Override
@@ -65,7 +64,7 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
                 mediaPlayer.start();
                 break;
             case 1:
-                mediaPlayer = MediaPlayer.create(this, R.raw.bungaku);
+                mediaPlayer = MediaPlayer.create(this, R.raw.apuse);
                 mediaPlayer.start();
                 break;
             case 2:
