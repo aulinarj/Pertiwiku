@@ -17,6 +17,7 @@ import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguNasion
 
 public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNasional.ILaguAdapterNasional {
     public static final String LAGU_NAS = "lagu";
+    public static final String TAG = "LivecycleTag";
 
     ArrayList<LaguNasional> mListNas = new ArrayList<>();
     LaguAdapterNasional mAdapterNas;

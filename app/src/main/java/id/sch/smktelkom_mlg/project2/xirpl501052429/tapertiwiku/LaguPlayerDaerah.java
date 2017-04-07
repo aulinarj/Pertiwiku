@@ -1,6 +1,6 @@
 package id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku;
 
-
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -11,6 +11,7 @@ import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguDaerah
 
 public class LaguPlayerDaerah extends AppCompatActivity {
 
+    MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +31,7 @@ public class LaguPlayerDaerah extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 onBackPressed();
+                mediaPlayer.stop();
             }
         });
 

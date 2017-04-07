@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.View;
 
 import java.util.ArrayList;
 
@@ -18,10 +19,14 @@ import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguDaerah
 public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaerah.ILaguAdapterDaerah {
 
     public static final String LAGU_DAE = "lagu dae";
-
+    public static MediaPlayer mediaPlayer;
     ArrayList<LaguDaerah> mList = new ArrayList<>();
     LaguAdapterDaerah mAdapter;
-    MediaPlayer mediaPlayer;
+
+    public static void stop() {
+        if (mediaPlayer != null)
+            mediaPlayer.stop();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +42,14 @@ public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaer
         recyclerView.setAdapter(mAdapter);
 
         fillData();
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
     }
 
     private void fillData() {
@@ -121,6 +134,13 @@ public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaer
                 mediaPlayer.start();
                 break;
         }
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (mediaPlayer != null)
+            mediaPlayer.stop();
+        super.onBackPressed();
     }
 }
 
