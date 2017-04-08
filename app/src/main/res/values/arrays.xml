@@ -25,11 +25,10 @@
         <item>Hymne Kemerdekaan</item>
         <item>Syukur</item>
         <item>Mengheningkan Cipta</item>
-        <item>Tanah Airku</item>
         <item>Indonesia Pusaka</item>
         <item>Rayuan Pulau Kelapa</item>
         <item>Satu Nusa Satu Bangsa</item>
-        <item>Bangun Pemudi Pemuda</item>
+
     </string-array>
     <string-array name="desc_music_nas">
         <!--1--><item>
@@ -144,8 +143,7 @@ rakyatnya. Yang mana terhamparnya jajaran alam yang sejuk nan permai, pantai dan
 sulit untuk terlupakan, sungguh negara yang patut untuk disyukuri.</item>
         <!--9--><item>Lagu Syukur yang termasuk jenis la­gu himne yaitu pujian kepada Tuhan. Lagu ini merupakan lagu pertama ciptaan Mutahar dan untuk pertama kalinya diperkenalkan kepada khayalak ramai pada Januari 1945. Mutahar ingin mengungkapkan pernyataan pujian yang agung ke seluruh penjuru tanah air lewat lagu Syukur tersebut. Lagu dengan syair yang bernuansa agung ini menegaskan kepada kita bahwa tanah air Indonesia yang sebentar lagi akan merdeka ada­lah sebuah karunia Tuhan.
 </item>
-        <!--10-->
-        <item>Mengheningkan cipta adalah mengenang seluruh jasa pahlawan yang telah memperjuangkan kesatuan republik Indonesia, memperkuat kembali jiwa kerelaan berjuang dan berkorban demi kepentingan bangsa dan semangat heroik para pahlawan bagi generasi sekarang dan masa mendatang dalam mengisi ke merdekaan. Karena perjuangan melepaskan diri dari belenggu penjajahan merupakan perjuangan yang sangat berat, namun perjuangan mengisi kemerdekaan lebih berat lagi.</item>
+        >
         <!--11--><item>Lagu ini berisi tentang kecintaan Ibu Sud terhadap Negara Republik Indonesia. Ibu Sud ingin tanah air indonesia agar selalu dicintai oleh masyarakat yang lahir dan hidup di Indonesia selamanya. Walau pun ia pergi jauh ia tidak akan pernah lupakan tanah airnya.
 walau banyak orang pergi ke negara–negara lain namun tak ada yang senyaman di kampung sendiri. Ia pun berkata bahwa negara Indonesia seperti rumahnya sendiri. ia menceritakan ke banggaannya terhadap tanah air indonesia tercinta ini dan beliau berjanji bahwa tidak akan melupakannya.
 Lagu ini bagus untuk dinyanyikan oleh semua semua orang karena lagu ini sangat menyentuh hati para pendengar maupun penyanyi. Banyak orang menyanyikan lagu ini karena ia bangga terhadap tanah air Indonesia.  Mereka membayangkan keindahan tanah air yang ia cintai dan banggakan. Nama asli Ibu Sud adalah Saridjah Niung dengan nama lengkap Saridjah Niung Bintang Soedibjo. Ia lahir di Sukabumi, Jawa Barat pada 26 Maret 1908 dan meninggal tahun 1993 pada usia 85 tahun. Setelah menikah dengan Raden Bintang Soedibjo dia lebih dikenal dengan nama Ibu Soed.
@@ -157,33 +155,7 @@ Lagu ini bagus untuk dinyanyikan oleh semua semua orang karena lagu ini sangat m
         <!--14--><item>Satu Nusa Satu Bangsa” adalah salah satu lagu nasional di Indonesia yang banyak dinyanyikan ketika acara – acara kenegaraan. Ya, lagu karangan L. Manik ini memang berisi lirik yang memiliki makna kebangsaan yang luhur dan mulia.
 Lirik lagu satu nusa satu bangsa berisi tentang gambaran persatuan seluruh masyarakat Indonesia yang terikat dalam nusa yang satu dan juga bangsa yang satu.
 Karenanya, sudah sepatutnya kita membela tanah air tercinta ini secara bersama-sama agar Indonesia pusaka ini selalu berjaya selama – lamanya.</item>
-        <!--15--><item>Dalam lagu karangan Alfred Simanjuntak ini tersirat harapan dan cita – cita bangsa yang harus di
-junjung tinggi oleh pemuda Indonesia. Untuk lebih memahami makna dan nilai yang di kandung
-dari lagu ini lebih jelas dan terperinci, mari kita uraikan lirik demi lirik.
-Bangun pemudi pemuda
-Indonesia. Ungkapan atau keinginan serta harapan dari para pejuang dan para pahlawan terhadap
-pemuda dan pemudi bangsa Indonesia di masa yang akan datang. Mereka ingin pemuda pemudi
-Indonesia bangkit saat keterpurukan datang.
-Lengan bajumu singsingkan untuk negara. Jangan malas!
-Jangan ragu untuk melakukan sesuatu, selama hal itu tak merugikan orang lain dan diri sendiri. Jangan
-gengsi alias malu! Bersikaplah PeDe alias percaya terhadap diri sendiri.
-Masa yang akan datang kewajibanmulah .
-Masa depan bangsa tertumpu pada pundak pemuda. Tugas pemuda untuk mengharumkan nama bangsa dan
-negara yaitu Negara Kesatuan Republik Indonesia.
-Menjadi tanggunganmu terhadap nusa è Kalimat ini diulang
-sampai dua kali. Ini menekankan bahwa tanggung jawab pemuda yang sangat besar terhadap negara.
 
-Sudi tetap berusaha jujur dan ikhlas è Hendaknya sikap dan sifat yang tercermin adalah sikap dan sifat yang mulia.
-Sikap dimana pemuda itu tidak mudah putus asa, jujur dan ikhlas untuk menjalani kehidupan.
-Tak usah banyak bicara
-trus kerja keras è Jangan hanya berniat yang ditunjukkan hanya dengan kata – kata, tetapi buktikan itu dengan suatu
-tindakan nyata.
-Hati teguh dan lurus pikir tetap jernih è Berpegang teguh pada pendirian, jangan mudah digoyahkan
-sesuatu yang belum jelas informasinya. Saat ada sesuatu yang menghalang dan menghadang, jangan terburu – buru
-dan gegabah dalam mengambil tindakan.
-Bertingkah laku halus hai putra negri è Kalimat ini adalah dua lirik terakhir di
-bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai dengan dua kali. Berarti hal ini sangat
-– sangat ditekankan. Intinya yaitu harapan agar para pemuda mempunyai akhlak, pendirian, sikap dan sifat yang baik, jangan kasar!</item>
     </string-array>
     <string-array name="pencipta">
         <item>Wagerudolf Supratman</item>
@@ -196,11 +168,10 @@ bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai
         <item>Ibu Soed/Wiratmo Sukito</item>
         <item>Husein Mutahar</item>
         <item>Ismail Marzuki</item>
-        <item>Ibu Sud</item>
         <item>Ismail Marzuki</item>
         <item>Ismail Marzuki</item>
         <item>Liberty Manik</item>
-        <item>Alfred Simanjutak</item>
+
     </string-array>
 
     <string-array name="music_daerah">
@@ -217,8 +188,8 @@ bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai
         <item>Gambang Suling</item>
         <item>Lir Ilir</item>
         <item>Manuk Dadali</item>
-        <item>O Inani Keke</item>
-        <item>Bubuy Bulan</item>
+
+
     </string-array>
     <string-array name="desc_music_daerah">
         <item> Sejarah Tentang lagu ampar ampar pisang ini pada awalnya dinyanyikan secara iseng saat masyarakat Kalimantan Selatan membuat sebuah kue/makanan yang terbuat dari pisang. Makanan ini bernama rimpi. Cara membuat makanan ini adalah dengan cara pisang di diampar (disusun) kemudian dibiarkan hingga hampir matang mendekati busuk. setelah itu pisang dijemur diampar(disusun) di bawah sinar matahari sampai kira kira pisang mengeras dan mengeluarkan bau manis yang sangat khas.
@@ -237,8 +208,6 @@ bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai
         <item> Gambang suling merupakan sebuah lagu yang berasal dari daerah Jawa Tengah. Lagu dari jateng ini diciptakan oleh Ki Narto Sabdo. Sang Pencipta hanya membuat lagu ini menjadi lima baris saja. Begitu sederhana bukan? Lagu gambang suling mp3 ini sangat terkenal, bahkan hingga ke daerah luar Jawa Tengah. Selain sederhana, lagu ini juga dikenal sebagai lagu anak-anak. Maka tak heran kalau anak SD banyak yang hafal lagu ini.</item>
         <item> Sebagai umat Islam kita diminta bangun ( sadar ).Bangun dari keterpurukan, bangun dari sifat malas untuk lebih mempertebal keimanan yang telah ditanamkan oleh Alloh. Dalam diri kita yang dalam ini dilambangkan dengan tanaman yang mulai bersemi dan demikian menghijau. Terserah kepada kita, mau tetap tidur dan membiarkan tanaman iman kita mati atau bangun dan berjuang untuk menumbuhkan tanaman tersebut hingga besar dan mendapatkan kebahagiaan seperti bahagianya pengantin baru.</item>
         <item> Manuk Dadali merupakan salah satu lagu Sunda asal daerah Jawa Barat. Dengan berbahasa sunda yang diciptakan oleh pembawa acara radio dan televisi serta penulis lagu berbahasa sunda, Sambas Mangundikarta. Manuk Dadali yang berarti burung garuda merupakan lagu penuh rasa nasionalisme menceritakan keperkasaan burung garuda yang merupakan lambang dari Indonesia.</item>
-        <item> Lirik yang menyebutkan sebagai rasa kasih sayang dari ibu kepada anak yang disayanginya. Namun ternyata anak justru melihat rasa kasih sayang tersebut sebagai ungkapan rasa kemanjaan sehingga tidak adanya timbal balik rasa sayang yang terjalin dari hubungan ibu dan anak tersebut.</item>
-        <item> Bubuy Bulan yakni lagu dari daerah propinsi Jawa Barat yg diciptakan oleh Benny Korda. Lagu ini bercerita berkenaan kesedihan seorang yg ditinggalkan oleh kekasih. Kesedihan itu bertambah tidak baik disaat seorang itu menyaksikan satu orang yg melewat tiap-tiap pagi dan menonton sorot matanya terkenang oleh kekasih yg lalu meninggalkannya.</item>
     </string-array>
     <string-array name="asal">
         <item>Kalimantan Selatan</item>
@@ -254,7 +223,6 @@ bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai
         <item>Jawa Tengah</item>
         <item>Jawa</item>
         <item>Sunda</item>
-        <item>Sulawesi Utara</item>
-        <item>JAwa Barat</item>
+
     </string-array>
 </resources>

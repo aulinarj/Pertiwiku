@@ -126,14 +126,8 @@ public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaer
                 mediaPlayer = MediaPlayer.create(this, R.raw.manuk_dadali);
                 mediaPlayer.start();
                 break;
-            case 13:
-                mediaPlayer = MediaPlayer.create(this, R.raw.oinanikeke);
-                mediaPlayer.start();
-                break;
-            case 14:
-                mediaPlayer = MediaPlayer.create(this, R.raw.bubuy_bulan);
-                mediaPlayer.start();
-                break;
+
+
         }
     }
 
