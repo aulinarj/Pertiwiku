@@ -18,10 +18,14 @@ import id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.model.LaguNasion
 public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNasional.ILaguAdapterNasional {
     public static final String LAGU_NAS = "lagu";
     public static final String TAG = "LivecycleTag";
-
+    public static MediaPlayer mediaPlayer;
     ArrayList<LaguNasional> mListNas = new ArrayList<>();
     LaguAdapterNasional mAdapterNas;
-    MediaPlayer mediaPlayer;
+
+    public static void stop() {
+        if (mediaPlayer != null)
+            mediaPlayer.stop();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,16 +47,17 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.music_nas);
         String[] arDeskripsi = resources.getStringArray(R.array.pencipta);
+        String[] arDetail = resources.getStringArray(R.array.desc_music_nas);
 
         for (int i = 0; i < arJudul.length; i++) {
-            mListNas.add(new LaguNasional(arJudul[i], arDeskripsi[i]));
+            mListNas.add(new LaguNasional(arJudul[i], arDeskripsi[i], arDetail[i]));
         }
         mAdapterNas.notifyDataSetChanged();
     }
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, LaguPlayerDaerah.class);
+        Intent intent = new Intent(this, LaguPlayerNasional.class);
         intent.putExtra(LAGU_NAS, mListNas.get(pos));
         startActivity(intent);
     }
@@ -121,6 +126,13 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
                 mediaPlayer.start();
                 break;
         }
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (mediaPlayer != null)
+            mediaPlayer.stop();
+        super.onBackPressed();
     }
 }
 

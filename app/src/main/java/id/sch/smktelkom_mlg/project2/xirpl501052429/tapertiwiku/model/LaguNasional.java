@@ -9,12 +9,12 @@ import java.io.Serializable;
 public class LaguNasional implements Serializable {
     public String judulNas;
     public String deskripsiNas;
-    public String lagu;
+    public String detail;
 
 
-    public LaguNasional(String judulNas, String deskripsiNas) {
+    public LaguNasional(String judulNas, String deskripsiNas, String detail) {
         this.judulNas = judulNas;
         this.deskripsiNas = deskripsiNas;
-        this.lagu = lagu;
+        this.detail = detail;
     }
 }

@@ -56,9 +56,10 @@ public class ListLaguDaerah extends AppCompatActivity implements LaguAdapterDaer
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.music_daerah);
         String[] arDeskripsi = resources.getStringArray(R.array.asal);
+        String[] arDetail = resources.getStringArray(R.array.desc_music_daerah);
 
         for (int i = 0; i < arJudul.length; i++) {
-            mList.add(new LaguDaerah(arJudul[i], arDeskripsi[i]));
+            mList.add(new LaguDaerah(arJudul[i], arDeskripsi[i], arDetail[i]));
         }
         mAdapter.notifyDataSetChanged();
     }
