@@ -66,11 +66,11 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
     public void doSong(int pos) {
         switch (pos) {
             case 0:
-                mediaPlayer = MediaPlayer.create(this, R.raw.bendera_kita);
+                mediaPlayer = MediaPlayer.create(this, R.raw.ibu_kartini);
                 mediaPlayer.start();
                 break;
             case 1:
-                mediaPlayer = MediaPlayer.create(this, R.raw.apuse);
+                mediaPlayer = MediaPlayer.create(this, R.raw.gugur_bunga);
                 mediaPlayer.start();
                 break;
             case 2:
@@ -122,7 +122,7 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
                 mediaPlayer.start();
                 break;
             case 14:
-                mediaPlayer = MediaPlayer.create(this, R.raw.tanah_air_beta);
+                mediaPlayer = MediaPlayer.create(this, R.raw.bangun_pemudi);
                 mediaPlayer.start();
                 break;
         }
