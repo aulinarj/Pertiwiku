@@ -111,7 +111,7 @@ public class ListLaguNasional extends AppCompatActivity implements LaguAdapterNa
                 mediaPlayer.start();
                 break;
             case 9:
-                mediaPlayer = MediaPKlayer.create(this, R.raw.mengheningkan_cipta);
+                mediaPlayer = MediaPlayer.create(this, R.raw.mengheningkan_cipta);
                 mediaPlayer.start();
                 break;
             case 10:
