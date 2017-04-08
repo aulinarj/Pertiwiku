@@ -15,8 +15,8 @@
   -->
 <resources>
     <string-array name="music_nas">
-        <item>Bendera Kita</item>
-        <item>Bungaku</item>
+        <item>Ibu Kita Kartini</item>
+        <item>Gugur Bunga</item>
         <item>Dari Sabang Sampai Merauke</item>
         <item>Garuda Pancasila</item>
         <item>Halo-Halo Bandung</item>
@@ -29,28 +29,150 @@
         <item>Indonesia Pusaka</item>
         <item>Rayuan Pulau Kelapa</item>
         <item>Satu Nusa Satu Bangsa</item>
-        <item>Tanah Air Beta</item>
+        <item>Bangun Pemudi Pemuda</item>
     </string-array>
     <string-array name="desc_music_nas">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
+        <item>"Ibu Kita Kartini" adalah lagu ciptaan Wage Rudolf Soepratman atau biasa dikenal dengan nama WR Soepratman, yang merupakan pencipta lagu Indonesia Raya.
+Lagu Ibu Kita Kartini merupakan lagu untuk mengenang perjuangan Kartini sebagai tokoh penggerak emansipasi perempuan khususnya perempuan Jawa di masa
+itu yang tak memiliki hak yang sama dengan kaum lelaki. Lirik lagunya yang begitu akrab didengar oleh hampir seluruh rakyat Indonesia, sebab lagu ibu kita Kartini
+selalu diajarkan di sekolah-sekolah di Indonesia sejak masa pendidikan Taman Kanak-kanak. Sosok perempuan Jawa bernama Raden Ajeng Kartini memang
+sangat akrab di teling masyarakat Indonesia, nama Kartini mulai dikenal sejak masa pendidikan taman kanak-kanan berkat lagu berjudul Ibu Kita Kartini juga perayaan
+ hari Kartini setiap tanggal 21 April.</item>
+
+        <item>Gugur Bunga di Taman Bakti", lebih dikenal sebagai "Gugur Bunga", adalah sebuah lagu perjuangan Indonesia yang ditulis oleh Ismail Marzuki pada tahun 1945.
+            Lagu ini untuk menghormati tentara Indonesia yang tewas selama Revolusi Nasional Indonesia, lagu ini menceritakan tentang kematian seorang prajurit, dan perasaan
+            penyanyi. Sejak saat itu lagu ini menjadi sebuah lagu umum untuk protes dan pemakaman.</item>
+
+        <item>Lirik lagu ini berisi tentang kesetiaan segenap rakyat Indonesia kepada Pancasila sebagai satu-satunya ideologi atau falsafah Bangsa Indonesia. Salah satu lagu perjuangan itu adalah Garuda Pancasila yang diciptakan oleh Bapak Sudharnoto.
+Masih di lansir dari wikipedia, Sudharnoto (lahir di Kendal, 24 Oktober 1925 – meninggal 11 Januari 2000 pada umur 74 tahun) adalah komponis, ilustrator film Indonesia, penggubah Mars Pancasila yang di kemudian hari dikenal sebagai lagu Garuda Pancasila. Pada saat Soekarno berkuasa, ia termasuk salah satu seniman yang tergabung dalam Lekra.
+Garuda pancasila
+Akulah pendukungmu
+“Garuda sebagai lambang negara dan Pancasila sebagai dasar negara harus senantiasa kita dukung dan junjung tinggi sebagai bukti kedaulatan bangsa yang merdeka.”
+Patriot proklamasi
+Sedia berkorban untukmu
+“Patriot proklamasi bermakna pejuang kemerdekaan/pejuang bangsa yang akan selalu siap sedia berkorban untuk negeri.”
+Pancasila dasar negara
+Rakyat adil makmur sentosa
+“Pancasila sebagai dasar negara jika diterapkan secara nyata maka keadilan, kemakmuran dan kedamaian sentosa akan dirasakan oleh seluruh rakyat Indonesia.”
+Pribadi bangsaku
+Ayo maju maju
+Ayo maju maju
+Ayo maju maju
+“Kepribadian bangsa Indonesia adalah bangsa yang pantang menyerah, pantang berputus asa menghadapi semua cobaan yang datang. Bangsa yang penuh semangat untuk terus maju dan bersatu membangun tanah tumpah darah Indonesia”.</item>
+        <item>Dikisahkan bahwa penciptaan lagu Halo-halo Bandung berproses dalam candaan para pejuang yang memiliki aneka ragam budaya. Kata “Halo” merupakan sapaan khas pemuda Medan karena terinspirasi dari film cowboy yang marak saat itu. Para pemuda Medan sering menggunakannya untuk menyapa kota Bandung tercinta yang nampak di kejauhan. Sapaan ini terus diucapkan berulang kali sehingga terciptalah kalimat “Halo-halo Bandung” yang akhirnya memiliki irama seperti saat ini.
+
+Kalimat ini tidak langsung terangkai menjadi sebuah lagu karena pada malam hari para pejuang sibuk bergerilya ke dalam kota. Siang hari baru mereka memiliki waktu santai sambil menunggu malam tiba. Saat itulah irama Halo-halo Bandung yang sudah tercipta dibahas lagi. Para pejuang mencari inspirasi lirik berikutnya dan kebetulan ketika itu Bandung menjadi Ibu Kota Keresidenan Priangan sehingga tercipta lirik “Ibu Kota Periangan”. Lirik berikutnya merupakan ungkapan sebuah kenangan karena kota Bandungyang sudah lama ditinggalkan menjadi kenangan bagi para pejuang, maka terbentuk syair “kota kenang-kenangan”.
+
+Lirik-lirik tersebut mengalir dalam obrolan para pejuang. Pertemuan dengan para pemuda Ambon yang tergabung dalam Pemuda Indonesia Maluku (PIM) memberikan inspirasi baru karena pemuda Ambon yang lama tidak bertemu dengan pejuang lain celetuk berkata “cukimai! sudah lama beta tidak bertemu dengan kau!”. Sapaan ini akhirnya dijadikan syair berikutnya “sudah lama beta, tidak berjumpa dengan kau”.
+
+Kota Bandung yang telah dijadikan Lautan Api dan gerilya yang sering dilakukan pejuang di malam hari dengan tujuan menyingkirkan NICA dari kota tersebut membuat para pejuang yang multi etnis itu menutup lagu ini dengan lirik “sekarang telah menjadi Lautan Api, mari bung rebut kembali”. Maka jadilah lagu Halo-halo Bandung.</item>
+        <item>Makna dari dari lagu Hymne guru yaitu adalah ingin mengingatkan bahwasannya hakikat manusia hidup ialah untuk mencari ilmu sebanyak-banyaknya.
+Dan seseorang yang mampu untuk memberikan aliran ilmu yang bermanfaat ialah seseorang yang berani berkorban untuk mengemban ilmu lalu disalurkan
+kepada masyarakat. Dan mereka yang kita guru.
+Seorang Guru dianalogikan sebagai Air,Udara,Api dan Tanah.
+ Yang pada hakikatnya dijabarkan seperti berikut :
+1. Unsur Air
+Seorang pendidik diharapkan mampu mengaplikasikan
+dirinya sebagai,
+Air yang Mensucikan dan membersihkan,Seperti air seharusnya seorang pendidik
+memiliki kesuciaan hati dan keikhlasan dalam mengemban tugasnya dalam sehari-hari.Sehingga
+ilmu yang diberikan dari hati yang tulus dan suci akan diserap baik oleh  anak didik,dan semoga
+lahirlah generasi-generasi yang mulia.
+2. Unsur Udara
+
+Sebagai Napas dan Atmosfer yang baik, seorang pendidik seharusnya belajar dan mampu menjadikan
+dirinya sebagai Napas ilmu dari anak didiknya,keluarga dan lingkungan sekitarnya.Karena Udara sebagai unsur pernapasan
+utama kehidupan sebagai atmosfer pelindung manusia dan semua makhluk Bumi.
+Mampu menjelma sebagai udara yang
+suci yang menyejukkan,mendamaikan dan meredakan situasi yang sulit dan tidak nyaman.
+3. Unsur Api
+Seorang pendidik hendaknya mampu
+sebagai,
+Api yang Menyinari,sumber cahaya seperti mentari yang menuntun ke jalan kebaikan dan hidup yang lebih baik,
+berbagi tanpa pamrih dan tulus,menjelma seperti mentari yang sinarnya selalu dinanti karena sinarnya yang penuh manfaat
+dan pembawa kebaikan dan kebahagiaan,sinar yang mampu membunuh bakteri-bakteri yang merugikan.
+Sebagai Api
+Penghangat dan mampu menjadi tempat tujuan dan yang selalu dirindukan dari setiap masalah dan pertanyaan juga dari
+situasi yang buruk.
+
+4. Unsur Tanah
+Mampu menjadi Tanah sebagai Pondasi yang kokoh, awal dan tempat berpijak utama serta
+ladang-ladang yang subur yang penuh manfaat penghasil tanaman-tanaman unggul dan tidak berbakteri.
+Tanah Penguat
+akar dan penghasil generasi-generasi yang tangguh dan berkarakter mumpuni dan mulia yang berguna untuk keluarga
+dan lingkungan serta bagi agama,nusa dan bangsanya.
+Tanah yang subur dan tidak tandus lagi kering  dan penuh bakteri.
+Hanya memberikan kebaikan dan sumber penguat utama akar kehidupan yang menghasilkan sosok" generasi mulia dan
+ tangguh yang berguna untuk keluarga,dan masyarakat sekitarnya.</item>
+        <item>Lagu tersebut tepatnya diciptakan pada tahun 1964.
+Sepuluh tahun sebelum lagu ini diciptakan oleh beliau mendapat firasat adanya golongan orang-orang tertentu yang ingin mendongkel
+dasar-dasar yang terkandung dalam falsafah Negara pancasila. Rasa kekhawatiran selalu bergejolak dalam jiwa beliau. Pribadi beliau
+tidak membenarkan kalau nilai-nilai luhur yang terkandung dalam falsafah Negara pancasila akan dihancurkan oleh orang-orang yang tak beriman.
+Jiwa kepanduan beliau menggelepak untuk menyelamatkan generasi penerus perjuangan bangsa, insane-insan pembela pancasila.
+Syukurlah pada tahun 1961 Gerakan Pramuka sebagai wadah pemersatu bangsa lahir di bumi tercinta Indonesia.
+Maka pada tahun 1964, lagu “Hymne Pramuka” mulai dikumandangkan sampai saat ini., dalam setiap kegiatan peringatan ulang
+tahun Gerakan Pramuka, setiap tanggal 14 Agustus.
+Kalau kita secara cermat menghayati isi lagu “Hymne Pramuka” kita memperoleh suatu gambaran yang pasti,
+betapa besar loyalitas kak Mut sebagai insane pembela pancasila, dan sebagai tokoh kepanduan yang sejati.
+Coba kita resapi ungkapan hati kak Mut dalam lagu Hymne Pramuka beikut ini :
+
+Kami Pramuka indnesia
+Manusia Pancasila
+Satya ku kudarmakan
+Darma ku kubaktikan
+Agar jaya Indonesia
+Indonesia tanah airku
+Kami jadi Pandumu...
+Pada umumnya lagu-lagu ciptaan kak Mut menyibakkan kesan rasa seni yang sangat tinggi.
+Paduan yang harmoni antara melodi, lirik dan aransemen dari lagu-lagu ciptaannya yang berjumlah ratusan,
+bagaikan tonggak-tonggak monumental yang kokoh, yang mempuyai nilai sejarah yang tinggi.
+Diantara lagu-lagu ciptaan kak Mut yang dikumandangkan dalam upacara seremonial antara lain : lagu”Hari Merdeka” dan”Syukur”.</item>
+        <item>Lagu Syukur yang termasuk jenis la­gu himne yaitu pujian kepada Tuhan. Lagu ini merupakan lagu pertama ciptaan Mutahar dan untuk pertama kalinya diperkenalkan kepada khayalak ramai pada Januari 1945. Mutahar ingin mengungkapkan pernyataan pujian yang agung ke seluruh penjuru tanah air lewat lagu Syukur tersebut. Lagu dengan syair yang bernuansa agung ini menegaskan kepada kita bahwa tanah air Indonesia yang sebentar lagi akan merdeka ada­lah sebuah karunia Tuhan.
+</item>
+        <item>Mengheningkan cipta adalah mengenang seluruh jasa pahlawan yang telah memperjuangkan kesatuan republik Indonesia, memperkuat kembali jiwa kerelaan berjuang dan berkorban demi kepentingan bangsa dan semangat heroik para pahlawan bagi generasi sekarang dan masa mendatang dalam mengisi ke merdekaan. Karena perjuangan melepaskan diri dari belenggu penjajahan merupakan perjuangan yang sangat berat, namun perjuangan mengisi kemerdekaan lebih berat lagi.</item>
+        <item>Lagu ini berisi tentang kecintaan Ibu Sud terhadap Negara Republik Indonesia. Ibu Sud ingin tanah air indonesia agar selalu dicintai oleh masyarakat yang lahir dan hidup di Indonesia selamanya. Walau pun ia pergi jauh ia tidak akan pernah lupakan tanah airnya.
+walau banyak orang pergi ke negara–negara lain namun tak ada yang senyaman di kampung sendiri. Ia pun berkata bahwa negara Indonesia seperti rumahnya sendiri. ia menceritakan ke banggaannya terhadap tanah air indonesia tercinta ini dan beliau berjanji bahwa tidak akan melupakannya.
+Lagu ini bagus untuk dinyanyikan oleh semua semua orang karena lagu ini sangat menyentuh hati para pendengar maupun penyanyi. Banyak orang menyanyikan lagu ini karena ia bangga terhadap tanah air Indonesia.  Mereka membayangkan keindahan tanah air yang ia cintai dan banggakan. Nama asli Ibu Sud adalah Saridjah Niung dengan nama lengkap Saridjah Niung Bintang Soedibjo. Ia lahir di Sukabumi, Jawa Barat pada 26 Maret 1908 dan meninggal tahun 1993 pada usia 85 tahun. Setelah menikah dengan Raden Bintang Soedibjo dia lebih dikenal dengan nama Ibu Soed.
+</item>
+        <item>Makna dari lagu Indonesia pusaka ciptaan Ismail Marzuki adalah pada bait pertama beliau memberi tahu bahwa Indonesia merupakan senjata yang selalu hidup didunia, maksudnya Indonesia merupakan negara yang kuat dan akan terus jaya untuk selamanya. Pada bait selanjutnya bermaknakan bahwa dari dulu sampai saat ini Indonesia merupakan negara yang selalu di puja dan diagungkan oleh bangsa Indonesia. Bait selanjutnya menceritakan bahwa di Indonesia lah kita lahir dan berkembang, bahkan sampai akhir hayat pun kita akan tetap berada di negara yang tercinta ini negara Indonesia. Pada bait selanjutnya bermaknakan bahwa negara Indonesia merupakan negara yang indah, banyak ditumbuhi pepohonan dan juga dikelilingi oleh lautan luas sehingga tidak ada satupun negara yang dapat menandingi negara Indonesia. Pada bait selanjutnya bermaknakan Tuhan sengaja menciptakan negara Indonesia yang sangat indah dan sempurna untuk para bangsa Indonesia yang selalu taat kepada Tuhan Yang Maha Esa. Pada bait selanjutnya Indonesia merupakan negara yang selalu dipuja dan dibanggakan oleh bangsanya dan pada lirik terakhir bermaknakan bahwa setiap bangsa Indonesia rela berkorban demi jayanya negara Indonesia walaupun dengan darah sekalipun. Ini juga yang dilakukan oleh para pejuang kemerdekaan yang berjuang mengusir para penjajah diwaktu itu.</item>
+        <item>Lagu yang berisi tentang keindahan alam Indonesia, seperti flora, kepulauan, dan pantainya. Lagu ini menjadi lagu nostalgia di Indonesia, terutama yang meninggalkan negara Indonesia ke Belanda pada tahun 1940-an dan 1950-an. Pada era presiden Suharto, TVRI yang adalah satu-satunya TV negri milik Indonesia memainkan lagu ini sebagai lagu penutup di akhir siaran. Selain TVRI, stasiun televisi TPI dan Trans 7 juga memakai lagu ini sebagai lagu penutup di akhir siaran.</item>
+        <item>Satu Nusa Satu Bangsa” adalah salah satu lagu nasional di Indonesia yang banyak dinyanyikan ketika acara – acara kenegaraan. Ya, lagu karangan L. Manik ini memang berisi lirik yang memiliki makna kebangsaan yang luhur dan mulia.
+Lirik lagu satu nusa satu bangsa berisi tentang gambaran persatuan seluruh masyarakat Indonesia yang terikat dalam nusa yang satu dan juga bangsa yang satu.
+Karenanya, sudah sepatutnya kita membela tanah air tercinta ini secara bersama-sama agar Indonesia pusaka ini selalu berjaya selama – lamanya.</item>
+        <item>Satu Nusa Satu Bangsa” adalah salah satu lagu nasional di Indonesia yang banyak dinyanyikan ketika acara – acara kenegaraan. Ya, lagu karangan L. Manik ini memang berisi lirik yang memiliki makna kebangsaan yang luhur dan mulia.
+Lirik lagu satu nusa satu bangsa berisi tentang gambaran persatuan seluruh masyarakat Indonesia yang terikat dalam nusa yang satu dan juga bangsa yang satu.
+Karenanya, sudah sepatutnya kita membela tanah air tercinta ini secara bersama-sama agar Indonesia pusaka ini selalu berjaya selama – lamanya.</item>
+        <item>Dalam lagu karangan Alfred Simanjuntak ini tersirat harapan dan cita – cita bangsa yang harus di
+junjung tinggi oleh pemuda Indonesia. Untuk lebih memahami makna dan nilai yang di kandung
+dari lagu ini lebih jelas dan terperinci, mari kita uraikan lirik demi lirik.
+Bangun pemudi pemuda
+Indonesia. Ungkapan atau keinginan serta harapan dari para pejuang dan para pahlawan terhadap
+pemuda dan pemudi bangsa Indonesia di masa yang akan datang. Mereka ingin pemuda pemudi
+Indonesia bangkit saat keterpurukan datang.
+Lengan bajumu singsingkan untuk negara. Jangan malas!
+Jangan ragu untuk melakukan sesuatu, selama hal itu tak merugikan orang lain dan diri sendiri. Jangan
+gengsi alias malu! Bersikaplah PeDe alias percaya terhadap diri sendiri.
+Masa yang akan datang kewajibanmulah .
+Masa depan bangsa tertumpu pada pundak pemuda. Tugas pemuda untuk mengharumkan nama bangsa dan
+negara yaitu Negara Kesatuan Republik Indonesia.
+Menjadi tanggunganmu terhadap nusa è Kalimat ini diulang
+sampai dua kali. Ini menekankan bahwa tanggung jawab pemuda yang sangat besar terhadap negara.
+
+Sudi tetap berusaha jujur dan ikhlas è Hendaknya sikap dan sifat yang tercermin adalah sikap dan sifat yang mulia.
+Sikap dimana pemuda itu tidak mudah putus asa, jujur dan ikhlas untuk menjalani kehidupan.
+Tak usah banyak bicara
+trus kerja keras è Jangan hanya berniat yang ditunjukkan hanya dengan kata – kata, tetapi buktikan itu dengan suatu
+tindakan nyata.
+Hati teguh dan lurus pikir tetap jernih è Berpegang teguh pada pendirian, jangan mudah digoyahkan
+sesuatu yang belum jelas informasinya. Saat ada sesuatu yang menghalang dan menghadang, jangan terburu – buru
+dan gegabah dalam mengambil tindakan.
+Bertingkah laku halus hai putra negri è Kalimat ini adalah dua lirik terakhir di
+bait kedua. Sama seperti bait pertama, bait kedua juga mengulang liriknya sampai dengan dua kali. Berarti hal ini sangat
+– sangat ditekankan. Intinya yaitu harapan agar para pemuda mempunyai akhlak, pendirian, sikap dan sifat yang baik, jangan kasar!</item>
     </string-array>
     <string-array name="pencipta">
-        <item>Dirman Sasmokoadi</item>
-        <item>Cornel Simanjuntak</item>
+        <item>Wagerudolf Supratman</item>
+        <item>Ismail Marzuki</item>
         <item>R Soerardjo</item>
         <item>Sudharnoto</item>
         <item>Ismail Marzuki</item>
@@ -63,7 +185,7 @@
         <item>Ismail Marzuki</item>
         <item>Ismail Marzuki</item>
         <item>Liberty Manik</item>
-        <item>Ismail Marzuki</item>
+        <item>Alfred Simanjutak</item>
     </string-array>
 
     <string-array name="music_daerah">
