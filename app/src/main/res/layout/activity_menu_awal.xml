@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_menu_awal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical"
     android:paddingTop="125dp"
     tools:context="id.sch.smktelkom_mlg.project2.xirpl501052429.tapertiwiku.MenuAwal">
